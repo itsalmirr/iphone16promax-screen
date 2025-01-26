@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <div className='min-h-screen flex items-center justify-center p-6'>
+      <div className='min-h-screen bg-gradient-to-b from-indigo-900 to-black flex items-center justify-center p-6'>
         {/* iPhone 14 Pro Max frame */}
         <div className='w-[420px] h-[900px] bg-black rounded-[60px] p-4 relative shadow-2xl border-8 border-gray-800'>
           {/* Screen */}
